@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Leirikutsu lähetetty!"
-date:   2015-04-13 05:33:57
+date:   2015-04-13 12:33:57
 categories: leiriuutinen
 ---
+Leirikirje on lähetetty tänään kaikille lippukuntalaisille.
 
-
-Julkaisemme päivityksistä [Facebook-sivuiltamme][lahdensiniset-fb]. 
+Julkaisemme tämän sivuston päivityksistä [Facebook-sivuiltamme][lahdensiniset-fb]. 
 
 [lahdensiniset-fb]:   https://www.facebook.com/lahdensiniset
 
