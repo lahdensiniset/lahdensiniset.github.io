@@ -8,17 +8,27 @@
 
 .first_contact {
 	float:left;
-	width: 46%;
-	margin: 2%;
+	width: 30%;
+	margin: 1.5%;
 }
 
 .second_contact {
 	float:left;
-	width: 46%;
-	margin: 2%;
+	width: 30%;
+	margin: 1.5%;
 }
 
-.first_contact img, .second_contact img {
+.third_contact {
+	float: left;
+	width: 30%;
+	margin: 1.5%;
+}
+
+.third_contact a {
+	font-weight: 600;
+}
+
+.first_contact img, .second_contact img, .third_contact img {
 	margin-bottom: 10px;
 	width: 25%;
 	height: 25%;
