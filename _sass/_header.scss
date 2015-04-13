@@ -75,6 +75,30 @@ header .logo p {
 	font-weight: 500;
 }
 
+header .header-btn {
+	height: 30px;
+	position: absolute;
+	top: 400px;
+	left: 50%;
+	margin-left: -115px;
+}
+
+header .header-btn a {
+	text-align: center;
+	border: thin solid #fff;;
+	font-weight: 700;
+	font-size: 16px;
+	padding: 14px 14px;
+	text-decoration: none;
+	color: #fff;
+}
+
+header .header-btn a:hover {
+	background-color: #2df585;
+	text-decoration: none;
+}
+
+
 header .header-info-text {
 	float: left;
 	margin-top: 425px;
@@ -90,7 +114,7 @@ header .header-info-text h3 {
 }
 
 header strong {
-	color: #F3D458;
+	color: #2df585;
 }
 
 
