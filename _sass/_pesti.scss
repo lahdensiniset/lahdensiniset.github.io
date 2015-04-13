@@ -1,0 +1,55 @@
+#pestit-page-line {
+	margin-bottom: 10px;
+}
+
+.job-section {
+	border: thin solid #aaa;
+	margin-bottom: 3%;
+	background-color: #fff;
+
+}
+
+.job-section summary {
+	text-align: center;
+}
+
+.job-section summary.program {
+	background: #2980b9;
+}
+
+.job-section summary.logistics {
+	background: #c0392b;
+}
+
+.job-section summary.boats {
+	background: #34495e;
+}
+
+.job-section summary.celebration {
+	background: #27ae60;
+}
+
+.job-section h3 {
+	display: inline-block;
+	font-weight: 600;
+	padding-top: 1.5%;
+	color: #fff;
+}
+
+.job-section details {
+	padding: 1%;
+	color: #151515;
+	font-weight: 500;
+}
+
+ol strong {
+	margin-left: -4%;
+}
+
+@media (max-width: 531px) {
+
+	.job-section h3 {
+		display: block;
+	}
+
+}

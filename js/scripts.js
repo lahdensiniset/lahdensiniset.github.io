@@ -1,9 +1,7 @@
 $( document ).ready( function() {
 
 	
-	$( "#potato" ).click( function() {
-
-		alert( "Toimii" );
+	$( ".job-section" ).click( function() {
 
 
 	});
