@@ -1,0 +1,123 @@
+#about {
+	position: relative;
+	overflow: hidden;
+	background-color: #25CC6F;
+}
+
+#about img {
+	width: 50%;
+	float: left;
+}
+
+#about article {
+	max-width: 42%;
+	float: right;
+	color: #fff;
+	padding: 5% 4%;
+	text-align: center;
+}	
+
+#about article h1 {
+	font-size: 30px;
+	text-align: center;
+	font-weight: 600;
+	margin: 30px 0;
+}
+
+#about article p {
+	font-size: 22px;
+	font-weight: 400;
+}
+
+@media (max-width: 1259px) {
+
+	#about article {
+		padding: 3% 2%;
+	}
+
+	#about article h1 {
+		font-size: 25px;
+		padding-top: 6%;
+	}
+
+	#about article p {
+		font-size: 18px;
+	}
+
+}
+
+@media (max-width: 1034px) {
+
+	#about article h1 {
+		font-size: 150%;
+		padding-top: 4%;
+	}
+
+	#about article p {
+		font-size: 100%;
+	}
+
+}
+
+@media (max-width: 919px) {
+
+	#about article h1 {
+		font-size: 130%;
+	}
+
+	#about article p {
+		font-size: 85%;
+	}
+}
+
+@media (max-width: 813px) {
+
+	#about article h1 {
+		font-size: 110%;
+		padding-top: 0%;
+	}
+
+	#about article p {
+		font-size: 80%;
+	}
+}
+
+@media (max-width: 739px) {
+
+	#about article {
+		padding-top: 10%;
+		margin: 0;
+	}
+
+	#about article h1 {
+		display: none;
+	}
+
+	#about article p:last-child {
+		display: none;
+	}
+
+}
+
+@media (max-width: 510px) {
+
+	#about img {
+		width: 100%
+	}
+
+	#about article {
+		max-width: 100%;
+		float: left;
+		padding-top: 7%;
+		padding-bottom: 7%;
+	}
+
+	#about article p:last-child {
+		display: inline;
+	}
+
+	#about article p {
+		font-size: 17px;
+	}
+
+}

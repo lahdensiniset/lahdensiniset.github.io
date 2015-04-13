@@ -1,0 +1,33 @@
+#contact {
+	background-color: #f9f9f9;
+	text-align: center;
+	padding: 30px 30px;
+	color: #252525;
+}
+
+.first_contact {
+	float:left;
+	width: 46%;
+	margin: 2%;
+}
+
+.second_contact {
+	float:left;
+	width: 46%;
+	margin: 2%;
+}
+
+.first_contact img, .second_contact img {
+	margin-bottom: 10px;
+}
+
+@media (max-width: 690px) {
+
+	.first_contact {
+		width: 96%;
+	}
+
+	.second_contact {
+		width: 96%;
+	}
+}
