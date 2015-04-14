@@ -96,15 +96,20 @@
     padding: $spacing-unit 0;
     background-color: #353535;
     color: #fff;
+    text-align: center;
+    font-size: 20px;
+
 }
 
 .site-footer a, .site-footer a:visited  {
     color: #fff;
+    vertical-align: middle;
 }
 
 .site-footer a:hover {
     color: #2df585;
     text-decoration: none;
+    vertical-align: middle;
 }
 
 .footer-heading {
@@ -178,6 +183,8 @@
 
 .page-heading {
     font-size: 25px;
+    font-weight: 700;
+    color: #353535;
 }
 
 .post-list {
