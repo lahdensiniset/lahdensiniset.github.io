@@ -55,7 +55,6 @@ $( document ).ready( function() {
 		$( this.closest(".details") ).find(".job-contents:first").toggle(500);
 
 
-
 	});
 
 });
