@@ -9,37 +9,77 @@
 
 }
 
-.job-section summary {
+.job-section div.summary {
 	text-align: center;
+	height: 70px;
+	position: relative;
 }
 
-.job-section summary.program {
+.job-section div.program {
 	background: #2980b9;
 }
 
-.job-section summary.logistics {
+.job-section div.logistics {
 	background: #c0392b;
 }
 
-.job-section summary.boats {
+.job-section div.boats {
 	background: #34495e;
 }
 
-.job-section summary.celebration {
+.job-section div.celebration {
 	background: #27ae60;
 }
 
 .job-section h3 {
+	position: absolute;
+	top: 50%;
+	left: 50%;
 	display: inline-block;
 	font-weight: 600;
-	padding-top: 1.5%;
 	color: #fff;
+	transform: translate(-50%, -50%);
 }
 
-.job-section details {
-	padding: 1%;
-	color: #151515;
-	font-weight: 500;
+.job-section p, .job-section ol {
+	padding: 1% 2% 0 2%;
+	font-size: 18px;
+}
+
+.job-section li {
+	margin: 2% 0;
+}
+
+.job-section div.summary i {
+	color: #fff;
+	position: absolute;
+	top: 50%;
+	left: 33%;
+	transform: translate(-50%, -50%);
+}
+
+.job-section div.summary span {
+	left: 75%;
+	top: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+
+.job-section div.summary span i:first-child {
+	font-size: 60px;
+	position: absolute;
+	left: -26%;
+	transform: translateY(-50%);
+
+}
+
+.job-section div.summary i:first-child {
+	left: 25%;
+	font-size: 40px;
+}
+
+.job-section div.job-contents {
+	display: none;
 }
 
 ol strong {
@@ -50,6 +90,14 @@ ol strong {
 
 	.job-section h3 {
 		display: block;
+	}
+
+	.job-section div.summary i:first-child {
+		left: 13%;
+	}
+
+	.job-section div.summary span {
+		left: 87%;
 	}
 
 }
