@@ -101,3 +101,11 @@ ol strong {
 	}
 
 }
+
+@media (max-width: 400px) {
+
+	.job-section div.summary i:first-child, .job-section div.summary span {
+		display: none;
+	}
+
+}
