@@ -2,22 +2,6 @@ $( document ).ready( function() {
 
 	// The following snippets handle traversin in DOM and between pages
 
-	$("#etusivu-link").click(function(e) {
-		e.preventDefault()
-
-		if ($("#etusivu").length === 0) {
-
-		    window.location.href = "http://vire.lahdensiniset.net/";
-
-		} else {
-
-			$('html, body').animate({
-				scrollTop: $("#etusivu").offset().top
-			}, 2000);
-
-		}
-	});
-
 	$("#leiri-link").click(function(e) {
 		e.preventDefault()
 
