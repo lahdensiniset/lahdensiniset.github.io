@@ -50,6 +50,7 @@ header .logo {
 	position: absolute;
 	left: 20%;
 	top: 170px;
+	width: 260px;
 	overflow: hidden;
 }
 
@@ -71,12 +72,12 @@ header .logo h2:first-child {
 
 header .logo p {
 	text-align: center;
-	margin: 120px 0 0 16px;
-	font-size: 16px;
+	margin-top: 120px;
+	font-size: 17px;
 	font-weight: 500;
 }
 
-header .header-btn {
+.header-btn {
 	height: 30px;
 	position: absolute;
 	top: 400px;
@@ -84,7 +85,7 @@ header .header-btn {
 	margin-left: -115px;
 }
 
-header .header-btn a {
+.header-btn a {
 	text-align: center;
 	border: thin solid #fff;;
 	font-weight: 700;
@@ -94,7 +95,7 @@ header .header-btn a {
 	color: #fff;
 }
 
-header .header-btn a:hover {
+.header-btn a:hover {
 	background-color: #2df585;
 	text-decoration: none;
 }
