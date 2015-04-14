@@ -13,7 +13,7 @@ $( document ).ready( function() {
 
 			$('html, body').animate({
 				scrollTop: $("#leiri").offset().top
-			}, 2000);
+			}, 1000);
 
 		}
 	});
@@ -29,7 +29,7 @@ $( document ).ready( function() {
 
 			$('html, body').animate({
 				scrollTop: $("#uutiset").offset().top
-			}, 2000);
+			}, 1000);
 
 		}
 	});
@@ -45,7 +45,7 @@ $( document ).ready( function() {
 
 			$('html, body').animate({
 				scrollTop: $("#ota-yhteytta").offset().top
-			}, 2000);
+			}, 1000);
 
 		}
 	});
