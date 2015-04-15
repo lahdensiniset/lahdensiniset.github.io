@@ -147,8 +147,6 @@ $( document ).ready( function() {
 	});
 
 
-
-
 	$(".summary").click( function() {
 
 		$( this.closest(".details") ).find(".job-contents:first").toggle(500);
