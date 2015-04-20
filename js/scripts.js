@@ -2,21 +2,6 @@ $( document ).ready( function() {
 
 	// The following snippets handle traversin in DOM and between pages
 
-	$("#leiri-link").click(function(e) {
-		e.preventDefault()
-
-		if ($("#leiri").length === 0) {
-
-		    window.location.href = "http://vire.lahdensiniset.net/#leiri";
-		    
-		} else {
-
-			$('html, body').animate({
-				scrollTop: $("#leiri").offset().top
-			}, 1000);
-
-		}
-	});
 
 	$("#uutiset-link").click(function(e) {
 		e.preventDefault()
