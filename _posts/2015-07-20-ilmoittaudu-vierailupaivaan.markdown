@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ilmoittautumisaikaa jatkettu 12.6. saakka!"
+title:  "Leiripaikka vaihtuu ja vierailupäivän ilmoittautuminen on avattu"
 date:   2015-07-20 15:30:57
 categories: leiriuutinen
 ---
