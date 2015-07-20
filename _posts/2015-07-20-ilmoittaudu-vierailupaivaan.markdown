@@ -13,7 +13,7 @@ Siirron johdosta leirille kulkeminen suoritetaan yhteiskyydein, joten jokaisen o
 
 Vireen vierailupäivä järjestetään torstaina 30.7. kello 10-18. Leirille voi saapua omien aikataulujen mukaisesti joko koko ajaksi tai vain osaksi siitä. Vierailupäivään ovat tervetulleita osallistujien läheiset, kaikki lippukuntalaiset sekä muut toiminnastamme kiinnostuneet. Vierailupäivämaksu on 5 euroa, ja se kattaa lounaan sekä tarvittaessa päivällisen. Maksu kerätään leirillä käteisenä ja tasarahana.
 
-Vierailupäivään tulee ilmoittautua viimeistään maanantaina 27.7. sähköisesti täällä (https://kuksa.partio.fi/Kotisivut/tilaisuus_ilmoittaudu.aspx?Id=6117). 
+Vierailupäivään tulee ilmoittautua viimeistään maanantaina 27.7. sähköisesti [täällä](https://kuksa.partio.fi/Kotisivut/tilaisuus_ilmoittaudu.aspx?Id=6117). 
 
 Leiriläisille toimitetaan puolestaan lisätietoa, kuten varustelista, tiistain 21.7. aikana.
 
