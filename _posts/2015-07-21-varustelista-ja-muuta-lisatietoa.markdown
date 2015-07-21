@@ -5,8 +5,6 @@ date:   2015-07-21 21:33:57
 categories: leiriuutinen
 ---
 
-# Varustelista ja muuta lisätietoa leiristä
-
 Leiri viiden vuorokauden kuluttua ja viimeiset uutiset leiriin liittyen on julkaistu. Katso lisätietoja leiristä, kuten ohjeet yhteiskuljetuksiin, varustelista ja ajo-ohjeet leiripaikalle.
 
 Lisäohjepaketin varustelistoineen löydät [täältä](http://vire.lahdensiniset.net/leiri/leiri-lisatiedot.pdf).
